@@ -1,0 +1,18 @@
+﻿Revert "123"
+
+This reverts commit b839bceadd7d785d771c649833b2f079a15fd901.
+
+Conflicts:
+	quangbeo.txt
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# You are currently reverting commit b839bce.
+#
+# Changes to be committed:
+	modified:   quangbeo.txt
+#
+
