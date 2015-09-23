@@ -1,7 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 dslfkjds;fldslf
 
 
 sdgjlsdk=gjsd;lfsd;l4fke
+=======
+>>>>>>> parent of f138e22... viet lan 1
 =======
 >>>>>>> parent of f138e22... viet lan 1
